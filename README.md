@@ -1,0 +1,2 @@
+# lighthouse
+my first project
